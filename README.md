@@ -23,9 +23,11 @@ Before running this project, ensure you have the following installed:
     pip install -r requirements.txt
 
 3. Apply database migrations:
- python manage.py migrate
+
+    python manage.py migrate
 
 4. Run the development server:
+
     python manage.py runserver
 
 API Endpoints
