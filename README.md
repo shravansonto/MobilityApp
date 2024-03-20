@@ -30,7 +30,10 @@ Before running this project, ensure you have the following installed:
 
 API Endpoints
 http://localhost:8000/mobility/customers/: CRUD operations for managing customers.
+
 http://localhost:8000/mobility/plans/: CRUD operations for managing subscription plans.
+
 http://localhost:8000/mobility/renew-plan/: API endpoint for renewing a subscription plan.
+
 http://localhost:8000/mobility/upgrade-downgrade-plan/: API endpoint for upgrading/downgrading a subscription plan.
 
