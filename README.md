@@ -20,6 +20,15 @@ Before running this project, ensure you have the following installed:
    git clone https://github.com/shravansonto/MobilityApp.git
 
 2. cd MobilityApp;
+
+    python -m venv myenv
+
+    # On Windows:
+    myenv\Scripts\activate
+    
+    # On macOS and Linux:
+    source myenv/bin/activate
+
     pip install -r requirements.txt
 
 3. Apply database migrations:
