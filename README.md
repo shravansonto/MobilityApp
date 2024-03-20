@@ -19,7 +19,7 @@ Before running this project, ensure you have the following installed:
    ```bash
    git clone https://github.com/shravansonto/MobilityApp.git
 
-2. cd MobilityApp
+2. cd MobilityApp;
     pip install -r requirements.txt
 
 3. Apply database migrations:
