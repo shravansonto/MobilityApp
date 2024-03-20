@@ -29,6 +29,7 @@ Before running this project, ensure you have the following installed:
     python manage.py runserver
 
 API Endpoints
+
 http://localhost:8000/mobility/customers/: CRUD operations for managing customers.
 
 http://localhost:8000/mobility/plans/: CRUD operations for managing subscription plans.
